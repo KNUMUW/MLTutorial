@@ -2,6 +2,10 @@
 
 Warsztaty z Machine Learning prowadzone przez __Mateusza Maciasa__ na potrzeby warsztatów organizowanych przez Koło Naukowe Uczenia Maszynowego na Uniwersytecie Warszawskim. W repozytorium znajdują sie notebooki wykorzystane podczas zajęć.
 
+W repozytorium znajdują się materiały warsztatów:
+* _Uczenie Maszynowe - wprowadzenie dla początkujących_
+* _Uczenie Maszynowe - deep learning_
+
 Do odpalenia potrzebne są:
 * Jupyter Notebook
 * Numpy
