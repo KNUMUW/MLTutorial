@@ -23,5 +23,6 @@ Zawartość:
 * _Pytorch Tutorial.ipynb_ - wstęp do tworzenia konwolucyjnych sieci neuronowych korzystając z frameworku PyTorch
 
 Każdą z praktycznych części poprzedał stosowny wstęp merytoryczny. Prezentacje:
+* __ - autor __Mateusz Macias__ [Google Slides](https://docs.google.com/presentation/d/1gHzBipLakN46wfa47rnHkpFzS2-nGF2k4WI1QjFeVDg/edit?usp=sharing) [PDF](prezentacje/MachineLearning_DeepLearning.pdf)
 * _Konwolucyjne Sieci Neuronowe_ - autor: __Mateusz Macias__ [Google Slides](https://docs.google.com/presentation/d/1M7T2tOzYS2rLJBnIHBLF_wQau5wSfr6g-KRTSqUFfrs/edit?usp=sharing) [PDF](prezentacje/CNN.pdf)
 * _Rekurencyjne Sieci Neuronowe_ - autor: __Mateusz Macias__ [Google Slides](https://docs.google.com/presentation/d/1QCBHXhksfIIqIsgKo15WG_y_dhjZSRpywd5ZO6nLiBU/edit?usp=sharing) [PDF](prezentacje/RNN.pdf)
